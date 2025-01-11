@@ -1,0 +1,51 @@
+body {
+    font-family: "Roboto", serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: white;
+  }
+  
+  ul {
+    width: 100%;
+  }
+  
+  li {
+    display: inline;
+    width: 100%;
+    margin-left: 40px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: "Dancing script", serif;
+    font-size: 44px;
+    color: black;
+  }
+  
+  p {
+    line-height: 25px;
+  }
+  
+  nav {
+    background-color: cornflowerblue;
+  }
+  
+  main {
+    background-color: grey;
+    font-size: 16px;
+  
+  }
+  
+  footer {
+    background-color: #afafaf;
+  }
+  
+  
+  
+  img {
+    width: 9vw;
+    height: 9vw;
+    display: inline;
+  }
